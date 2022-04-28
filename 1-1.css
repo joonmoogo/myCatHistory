@@ -1,0 +1,23 @@
+.top{
+    
+    font-family: 'Oswald', sans-serif;
+    
+    text-align:center;
+    
+}
+h1{
+    color:silver;
+    
+    border-bottom:solid;
+}
+body{
+    background-color:#090909;
+}
+.bottom{
+    
+    font-size:50px;
+    font-family: 'Ranchers', cursive;
+}
+h3{
+    color:silver;
+}
